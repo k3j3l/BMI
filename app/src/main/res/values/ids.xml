@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cardView" type="id" />
+    <item name="hg" type="id" />
+    <item name="etweight" type="id" />
+    <item name="etWeight" type="id" />
+    <item name="etHeight" type="id" />
+    <item name="btnCalculate" type="id" />
+    <item name="tvResult" type="id" />
+    <item name="tvStatus" type="id" />
+</resources>
